@@ -33,12 +33,12 @@ A person can register his request for blood by providing the relative informatio
 All blood requests are displayed in the JTable of requests Section. In the Sub menu of this section, there is another menu for managing request. In this section, Blood Requests can be managed by the Admin. Admin serves the blood requests with respective blood donor and city. So, the blood recipient can easily get the desired blood. After serving the particular request, the request is removed from the JTable but keeps storing the record in database by setting the status of the particular record to “served”.  
 
 # Screenshots
-![](Screenshots/j1.png)
-![](Screenshots/j2.png)
-![](Screenshots/j3.png)
-![](Screenshots/j4.png)
-![](Screenshots/j5.png)
-![](Screenshots/j6.png)
-![](Screenshots/j7.png)
-![](Screenshots/j8.png)
-![](Screenshots/j9.png)
+![](Screenshots/j1.PNG)
+![](Screenshots/j2.PNG)
+![](Screenshots/j3.PNG)
+![](Screenshots/j4.PNG)
+![](Screenshots/j5.PNG)
+![](Screenshots/j6.PNG)
+![](Screenshots/j7.PNG)
+![](Screenshots/j8.PNG)
+![](Screenshots/j9.PNG)
